@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+    font-size: 45px;
+}
+.but{
+    margin: auto;
+  
+}
+button{
+    font-size: larger;
+    height: 70px;
+    width: 100px;
+    background-color: aliceblue;
+}
+#screen{
+    font-size: 33px;
+}
+button:hover{
+    background-color:cornsilk;
+}
